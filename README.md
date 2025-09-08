@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Hanoi University of Industry. My major is information technology.<br>👯 I’m a member of HIT club and Code Mely community<br>🌱 I’m currently learning about Frontend (ReactJs, NextJs), backend (NodeJs). In the near future, I will learn about java spring boot backend. My goal is to become a fullstack website developer.<br>🤝 I used to intern at JVB Vietnam company with the responsibility of Frontend (NextJs).
+🔭 I’m currently studying on Hanoi University of Industry. My major is information technology.<br>👯 I’m a member of HIT club and Code Mely community<br>🌱 I’m currently learning about Frontend (ReactJs, NextJs), backend (NodeJs). In the near future, I will learn about java spring boot backend. My goal is to become a fullstack website developer.<br>🤝 I used to intern at JVB Vietnam company with the responsibility of Frontend (NextJs). <br> 🤝 I'm Frontend developer at Javis Enterprise
 
 
 ## 🌐 Socials:
